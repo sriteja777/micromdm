@@ -6,6 +6,7 @@ MicroMDM is a Mobile Device Management server for Apple Devices, focused on givi
 
 # User Guide
 
+
 - [Introduction](docs/user-guide/introduction.md)  
 Requirements and other information you should know before using MicroMDM.
 
